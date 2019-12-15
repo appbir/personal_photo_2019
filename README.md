@@ -4,6 +4,8 @@
 ## personal_photo_1019
 2019照片
 
+url https://appbir.github.io/personal_photo_2019/
+
 
 ## 实现逻辑
 
