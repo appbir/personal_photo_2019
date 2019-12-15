@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/appbir/personal_photo_2019#readme",
   "dependencies": {
-    "appbir-fs": "^1.0.0"
+    "appbir-fs": "^1.0.0",
+    "imageviewer": "^1.1.0",
+    "jquery": "^3.4.1"
   }
 }
