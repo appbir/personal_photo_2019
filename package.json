@@ -1,0 +1,24 @@
+{
+  "name": "personal_photo_2019",
+  "version": "1.0.0",
+  "description": "2019照片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build-config",
+    "build-config": "node ./server/createConfig.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appbir/personal_photo_2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appbir/personal_photo_2019/issues"
+  },
+  "homepage": "https://github.com/appbir/personal_photo_2019#readme",
+  "dependencies": {
+    "appbir-fs": "^1.0.0"
+  }
+}
